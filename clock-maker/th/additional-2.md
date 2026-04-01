@@ -1,3 +1,11 @@
+<p style="text-align: right">
+  <a href="https://ptmpn.github.io/interview-challenge/clock-maker/th/additional-2">ไทย</a>
+  |
+  <a href="https://ptmpn.github.io/interview-challenge/clock-maker/en/additional-2">English</a>
+</p>
+
+---
+
 # Clock Maker +2
 
 นาฬิกา analog แบบเข็มรุ่นล่าสุดนอกจากจะสามารถบอกเวลาเป็นวินาทีแล้วเข็มแต่ละเข็มยังเดินแบบเรียบเพื่อลดเสียงรบกวนอีกด้วย โดยเข็มแต่ละเข็มจะทำการขยับเล็กน้อยในทุกๆ มิลลิวินาทีโดย 1 วินาทีจะประกอบไปด้วย 1000 มิลลิวินาทีจงเขียนฟังก์ชันเพื่อรับคำนวนองศาของเข็มสั้น, เข็มยาว และเข็มวินาที ณ เวลาที่ถูกอินพุตเข้าไปโดยแสดงองศาของแต่ละเข็มเป็นทศนิยม 5 ตำแหน่ง
@@ -21,4 +29,4 @@ clock_arms_radius("20:41:52.292")
 
 ---
 
-[< Prev](https://vaixellx.github.io/interview-challenge/clock-maker/th/additional-1)
+[< Prev](https://ptmpn.github.io/interview-challenge/clock-maker/th/additional-1)

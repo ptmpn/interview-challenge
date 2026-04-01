@@ -1,3 +1,11 @@
+<p style="text-align: right">
+  <a href="https://ptmpn.github.io/interview-challenge/clock-maker/th/main">ไทย</a>
+  |
+  <a href="https://ptmpn.github.io/interview-challenge/clock-maker/en/main">English</a>
+</p>
+
+---
+
 # Clock Maker
 
 นาฬิกา analog แบบเข็มเป็นนาฬิการูปแบบวงกลมประกอบด้วยเข็มสั้นและเข็มยาวบนหน้าปัดมีตัวเลข 1-12 เมื่อเวลาผ่านไปแต่ละนาทีเข็มยาวจะเดินไปเรื่อยๆ เป็นวงกลมจนครบรอบเมื่อผ่านไป 60 นาที ในขณะที่เข็มสั้นจะเดินไปเรื่อยๆ เป็นวงกลมจนครบรอบเมื่อผ่านไป 12 ชั่วโมง จงเขียนฟังก์ชันเพื่อรับคำนวนองศาของเข็มสั้นและเข็มยาว ณ เวลาที่ถูกอินพุตเข้าไป
@@ -20,4 +28,4 @@ clock_arms_radius("20:41")
 
 ---
 
-[Next >](https://vaixellx.github.io/interview-challenge/clock-maker/th/additional-1)
+[Next >](https://ptmpn.github.io/interview-challenge/clock-maker/th/additional-1)

@@ -1,3 +1,11 @@
+<p style="text-align: right">
+  <a href="https://ptmpn.github.io/interview-challenge/clock-maker/th/additional-1">ไทย</a>
+  |
+  <a href="https://ptmpn.github.io/interview-challenge/clock-maker/en/additional-1">English</a>
+</p>
+
+---
+
 # Clock Maker +1
 
 นาฬิกา analog แบบเข็มสามารถบอกเวลาได้ละอียดขึ้นโดยการเพิ่มเข็มวินาทีเข้าไป เข็มวินาทีจะเดินไปเรื่อยๆ เป็นวงกลมจนครบรอบเมื่อผ่านไป 60 วินาที ในขณะเดียวกันเข็มยาวและเข็มสั้นก็จะขยับเล็กน้อยในแต่ละวินาทีเช่นกัน จงเขียนฟังก์ชันเพื่อรับคำนวนองศาของเข็มสั้น, เข็มยาว และเข็มวินาที ณ เวลาที่ถูกอินพุตเข้าไปโดยแสดงองศาของแต่ละเข็มเป็นทศนิยม 3 ตำแหน่ง
@@ -21,6 +29,6 @@ clock_arms_radius("20:41:52")
 
 ---
 
-[< Prev](https://vaixellx.github.io/interview-challenge/clock-maker/th/main)
+[< Prev](https://ptmpn.github.io/interview-challenge/clock-maker/th/main)
 |
-[Next >](https://vaixellx.github.io/interview-challenge/clock-maker/th/additional-2)
+[Next >](https://ptmpn.github.io/interview-challenge/clock-maker/th/additional-2)
